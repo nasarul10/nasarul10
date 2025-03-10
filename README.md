@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/nasarul10/URL)
-
+  - [Project 1](https://github.com/nasarul10/URL)
+  - [Project 2](https://github.com/nasarul10/URL)
+  - [Project 3](https://github.com/nasarul10/URL)
 
 <h2>📃 Certifications</h2>
 
@@ -17,10 +18,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[instagram]: 
+[linkedin]: https://www.linkedin.com/in/nasarul-naseer-6179b7300/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
