@@ -33,7 +33,7 @@ _(More projects coming soon!)_
 ---
 
 ## 📄 Resume
-[Download My Resume](#) 
+[Download My Resume](https://drive.google.com/file/d/1LYpDOpeiKMG5Pjcb_NbOXprroLjk3jrv/view?usp=sharing) 
 
 ---
 
