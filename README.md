@@ -12,7 +12,6 @@ I'm passionate about cybersecurity, network security, and incident response. I e
 - Skill3
 - Skill4
 
-_(Feel free to update this list!)_
 
 ---
 
@@ -30,19 +29,20 @@ _(More projects coming soon!)_
 - Certification2
 - Certification3
 
-_(Update as you earn more!)_
 
 ---
 
 ## 📄 Resume
-[Download My Resume](#) _(Replace with actual resume link)_
+[Download My Resume](#) 
 
 ---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasarulnaseer/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasarul_nazz/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-X-ID/)
 
-_(Replace `YOUR-LINKEDIN-ID` with your actual LinkedIn username)_
+
 
 ---
 
