@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring Cybersecurity Analyst  
 
-I'm passionate about cybersecurity, network security, and threat analysis. I enjoy learning and implementing security measures to protect digital assets. Currently exploring SIEM tools, threat hunting, and SOC operations.
+I'm passionate about cybersecurity, network security, and incident response. I enjoy learning and implementing security measures to protect digital assets. Currently exploring SIEM tools, threat hunting, and SOC operations.
 
 ---
 
