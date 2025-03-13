@@ -1,38 +1,49 @@
-<h1>Hi, I'm Nasarul! </h1>
-  
+# Hi there, I'm Nasarul Naseer! 👋
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+## 🚀 Aspiring Cybersecurity Analyst  
 
-  - [Project 1](https://github.com/nasarul10/URL)
-  - [Project 2](https://github.com/nasarul10/URL)
-  - [Project 3](https://github.com/nasarul10/URL)
+I'm passionate about cybersecurity, network security, and threat analysis. I enjoy learning and implementing security measures to protect digital assets. Currently exploring SIEM tools, threat hunting, and SOC operations.
 
-<h2>📃 Certifications</h2>
+---
 
-- [Certified SOC Analyst v1](Url)
-  
-<h2> 🤳 Connect with me:</h2>
+## 🔧 Skills
+- Skill1
+- Skill2
+- Skill3
+- Skill4
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+_(Feel free to update this list!)_
 
+---
 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/nasarul-naseer-6179b7300/
+## 📂 Projects
+- [Project1](#)
+- [Project2](#)
+- [Project3](#)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_(More projects coming soon!)_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Certification1
+- Certification2
+- Certification3
+
+_(Update as you earn more!)_
+
+---
+
+## 📄 Resume
+[Download My Resume](#) _(Replace with actual resume link)_
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+
+_(Replace `YOUR-LINKEDIN-ID` with your actual LinkedIn username)_
+
+---
+
+🔒 **Let's secure the digital world together!** 🔒
