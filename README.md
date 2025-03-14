@@ -23,7 +23,7 @@ _(More projects coming soon!)_
 
 ## 📜 Certifications
 - [Certified SOC Analyst v1](https://drive.google.com/file/d/1LYpDOpeiKMG5Pjcb_NbOXprroLjk3jrv/view?usp=sharing)
-- [SOC Essentials: Investigating with Splunk](#)
+- [SOC Essentials: Investigating with Splunk](https://drive.google.com/file/d/1_geEW4Ggdbc0C8KDe1fKM__sWqUz7FSA/view?usp=drive_link)
 - [Qualys Vulnerability Management](#)
 - [SOC Analyst Strong Foundation](https://www.udemy.com/certificate/UC-ad98c13f-91d6-42a0-9daf-a7c3c23f7390/)
 - [Introduction to Threat Hunting - Security Blue Team](https://elearning.securityblue.team/home/certificate/416467725)
