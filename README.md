@@ -7,10 +7,7 @@ I'm passionate about cybersecurity, network security, and incident response. I e
 ---
 
 ## 🔧 Skills
-- Skill1
-- Skill2
-- Skill3
-- Skill4
+- Security Monitoring & Analysis, Incident Detection & Response, Log Analysis & Correlation, SIEM Tools (Splunk, Wazuh, Microsoft Sentinel), Threat Intelligence & Indicators of Compromise (IOCs), Vulnerability Management (Qualys, Nessus), Endpoint Detection & Response (EDR/XDR - LimaCharlie), Firewall & IDS/IPS Monitoring (Snort, Suricata), Basic Network Security (TCP/IP, DNS, HTTP, TLS, VPNs), Security Incident Handling & Escalation, Analytical Thinking & Problem-Solving, Attention to Detail, Communication, Team Collaboration, Adaptability in 24x7 Shifts.
 
 
 ---
