@@ -22,7 +22,7 @@ _(More projects coming soon!)_
 ---
 
 ## 📜 Certifications
-- [Certified SOC Analyst v1](https://drive.google.com/file/d/1LYpDOpeiKMG5Pjcb_NbOXprroLjk3jrv/view?usp=sharing)
+- [Certified SOC Analyst v1](https://drive.google.com/file/d/15jJZH53lRRnxAF893UZN_N9RJ-XwWuju/view?usp=drive_link)
 - [SOC Essentials: Investigating with Splunk](https://drive.google.com/file/d/1_geEW4Ggdbc0C8KDe1fKM__sWqUz7FSA/view?usp=drive_link)
 - [Qualys Vulnerability Management](https://drive.google.com/file/d/16bbjZmjN46-bs4-BOfVi17Ic9ihp1Los/view?usp=drive_link)
 - [SOC Analyst Strong Foundation](https://www.udemy.com/certificate/UC-ad98c13f-91d6-42a0-9daf-a7c3c23f7390/)
