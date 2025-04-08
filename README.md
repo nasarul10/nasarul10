@@ -33,7 +33,7 @@ _(More projects coming soon!)_
 ---
 
 ## 📄 Resume
-[Download My Resume](https://github.com/nasarul10/Resume/blob/main/Nasarul SOC Resume.pdf) 
+[Download My Resume](https://github.com/nasarul10/Resume/blob/main/Nasarul%20SOC%20resume.pdf) 
 
 ---
 
