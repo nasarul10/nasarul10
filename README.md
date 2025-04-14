@@ -13,7 +13,7 @@ I'm passionate about cybersecurity, network security, and incident response. I e
 ---
 
 ## 📂 Projects
-- [Cloud-Based SOC Operations & Threat Detection](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro)
+- [Cloud-Based SOC Operations & Threat Detection](https://github.com/nasarul10/soc-home-lab-project.git)
 - [Project2](#)
 - [Project3](#)
 
