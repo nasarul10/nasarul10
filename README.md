@@ -57,7 +57,7 @@
 
 ## 📄 Resume
 
-📁 [Click here to view/download my resume](https://github.com/nasarul10/Resume/blob/main/Nasarul_resume_updated.pdf)
+📁 [Click here to view/download my resume](https://github.com/nasarul10/Resume/blob/main/Nasarul_Naseer_CV_Updated.pdf)
 
 ---
 
