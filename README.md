@@ -37,7 +37,8 @@
 
 | 🔧 Project | 💬 Description | 🧰 Tools Used |
 |-----------|----------------|---------------|
-| [🔐 Cloud-Based SOC Operations](https://github.com/nasarul10/soc-home-lab-project.git) | Built a simulated SOC environment with log ingestion and threat detection | Splunk, Wazuh, Sysmon |
+| [🔐 Cloud-Based SOC Operations](https://github.com/nasarul10/soc-home-lab-project.git) | Built a simulated SOC environment with log ingestion and threat detection | LimaCharlie, VMware, Windows 10, Ubuntu, Sysmon, Sliver C2, YARA  |
+| [📊 Splunk Logging & Monitoring Lab with Apache and FortiGate](https://github.com/nasarul10/splunk-logging-lab.git) | Deployed a standalone Splunk lab with Ubuntu VMs to collect logs from Apache web server and FortiGate firewall | Splunk, VMware, Ubuntu, Universal forwarder, Fortigate VM, Apache2 |
 | 🛠️ Linux Hosting Lab | Deployed and secured a LAMP stack server with WordPress and Magento on AWS | Apache, MariaDB, Ubuntu, SSL, Composer |
 | ⚙️ WHM/cPanel Admin Suite | Configured cPanel accounts, AutoSSL, EasyApache, and DNS/Email management | AlmaLinux, WHM, cPanel |
 
