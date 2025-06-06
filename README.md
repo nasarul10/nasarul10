@@ -39,6 +39,7 @@
 |-----------|----------------|---------------|
 | [🔐 Cloud-Based SOC Operations](https://github.com/nasarul10/soc-home-lab-project.git) | Built a simulated SOC environment with log ingestion and threat detection | LimaCharlie, VMware, Windows 10, Ubuntu, Sysmon, Sliver C2, YARA  |
 | [📊 Splunk Logging & Monitoring Lab with Apache and FortiGate](https://github.com/nasarul10/splunk-logging-lab.git) | Deployed a standalone Splunk lab with Ubuntu VMs to collect logs from Apache web server and FortiGate firewall | Splunk, VMware, Ubuntu, Universal forwarder, Fortigate VM, Apache2 |
+| 🔥 [Machine Test: Apache, PHP & WordPress from Source](https://github.com/nasarul10/apache-php-lamp-wordpress) | Compiled Apache and PHP from source, installed MySQL & deployed WordPress on a custom domain without using a package manager | Apache (compiled), PHP (compiled), MySQL binary, Ubuntu, WordPress |
 | 🛠️ Linux Hosting Lab | Deployed and secured a LAMP stack server with WordPress and Magento on AWS | Apache, MariaDB, Ubuntu, SSL, Composer |
 | ⚙️ WHM/cPanel Admin Suite | Configured cPanel accounts, AutoSSL, EasyApache, and DNS/Email management | AlmaLinux, WHM, cPanel |
 
