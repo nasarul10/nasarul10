@@ -57,7 +57,11 @@
 
 ---
 
-## 📄 Resume
+## 📄 Resume - Cybersecurity
+
+📁 [Click here to view/download my resume](https://github.com/nasarul10/Resume/blob/main/Nasarul_Naseer_CV_Updated.pdf)
+
+## 📄 Resume - Linux Admin/ Server Engineer
 
 📁 [Click here to view/download my resume](https://github.com/nasarul10/Resume/blob/main/Nasarul_Naseer_CV_Updated.pdf)
 
