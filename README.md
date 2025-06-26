@@ -54,7 +54,7 @@
 - 🧠 [SOC Analyst Strong Foundation - Udemy](https://www.udemy.com/certificate/UC-ad98c13f-91d6-42a0-9daf-a7c3c23f7390/)  
 - 🕵️ [Intro to Threat Hunting - Security Blue Team](https://drive.google.com/file/d/1HbvGIuPGdUwJSMZ-VsLqTWddxrf10Q9p/view?usp=drive_link)  
 - 🧭 [Microsoft Sentinel Fundamentals](https://learn.microsoft.com/en-in/users/nasarulnaseer-0714/achievements/cf5h7jx9)  
-- 📄 ISO/IEC 27001:2022 Lead Auditor — Certified
+- 📄 [ISO/IEC 27001:2022 Lead Auditor Certified](https://learn.mastermindassurance.com/certificates/njesxbjnxa)
 
 ---
 
