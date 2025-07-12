@@ -46,13 +46,23 @@
 
 ## 📜 Certifications & Achievements
 
-- ✅ [Certified SOC Analyst v1](https://drive.google.com/file/d/15jJZH53lRRnxAF893UZN_N9RJ-XwWuju/view?usp=drive_link)  
-- 🔎 [SOC Essentials: Investigating with Splunk](https://drive.google.com/file/d/1_geEW4Ggdbc0C8KDe1fKM__sWqUz7FSA/view?usp=drive_link)  
-- 🛡️ [Qualys Vulnerability Management](https://drive.google.com/file/d/16bbjZmjN46-bs4-BOfVi17Ic9ihp1Los/view?usp=drive_link)  
-- 🧠 [SOC Analyst Strong Foundation - Udemy](https://www.udemy.com/certificate/UC-ad98c13f-91d6-42a0-9daf-a7c3c23f7390/)  
-- 🕵️ [Intro to Threat Hunting - Security Blue Team](https://drive.google.com/file/d/1HbvGIuPGdUwJSMZ-VsLqTWddxrf10Q9p/view?usp=drive_link)  
-- 🧭 [Microsoft Sentinel Fundamentals](https://learn.microsoft.com/en-in/users/nasarulnaseer-0714/achievements/cf5h7jx9)  
-- 📄 [ISO/IEC 27001:2022 Lead Auditor Certified](https://learn.mastermindassurance.com/certificates/njesxbjnxa)
+
+# 🏅 Certifications & Achievements
+
+[![Certified SOC Analyst v1](https://img.shields.io/badge/EC--Council-Certified_SOC_Analyst_(CSA)-red?style=for-the-badge&logo=redhat&logoColor=white)](https://drive.google.com/file/d/15jJZH53lRRnxAF893UZN_N9RJ-XwWuju/view?usp=drive_link)
+&nbsp;
+[![SOC Essentials - Splunk](https://img.shields.io/badge/Splunk-SOC_Essentials-yellowgreen?style=for-the-badge&logo=splunk)](https://drive.google.com/file/d/1_geEW4Ggdbc0C8KDe1fKM__sWqUz7FSA/view?usp=drive_link)
+&nbsp;
+[![SOC Foundation - Udemy](https://img.shields.io/badge/Udemy-SOC_Foundation-lightgrey?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-ad98c13f-91d6-42a0-9daf-a7c3c23f7390/)
+&nbsp;
+[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel_Fundamentals-blueviolet?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-in/users/nasarulnaseer-0714/achievements/cf5h7jx9)
+&nbsp;
+[![Intro to Threat Hunting](https://img.shields.io/badge/BlueTeam-Threat_Hunting-orange?style=for-the-badge&logo=thealgorithms)](https://drive.google.com/file/d/1HbvGIuPGdUwJSMZ-VsLqTWddxrf10Q9p/view?usp=drive_link)
+&nbsp;
+[![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-red?style=for-the-badge&logo=qualys)](https://drive.google.com/file/d/16bbjZmjN46-bs4-BOfVi17Ic9ihp1Los/view?usp=drive_link)
+&nbsp;
+[![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-Lead_Auditor-green?style=for-the-badge&logo=iso)](https://learn.mastermindassurance.com/certificates/njesxbjnxa)
+
 
 ---
 
