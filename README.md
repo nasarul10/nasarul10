@@ -1,3 +1,5 @@
+# 👋 Hey there, I'm Nasarul Naseer
+
 🚀 **Aspiring Cybersecurity Analyst** | 🖥️ **Linux Server Administrator in the Making**  
 🔐 Passionate about securing digital infrastructure and building efficient, hardened systems.  
 💻 Exploring SOC Operations, SIEM tools, and mastering Linux Server Deployment & Management.  
