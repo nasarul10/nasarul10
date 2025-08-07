@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nasarul Naseer
 
-🚀 🖥️ **Working as Linux Server Administrator** |  **Cybersecurity Researcher** 
+🚀 🖥️ **Working as Linux Server Administrator** |  **Cybersecurity Researcher**\
 🔐 Passionate about securing digital infrastructure and building efficient, hardened systems.  
 💻 Exploring SOC Operations, SIEM tools, and mastering Linux Server Deployment & Management.  
 🌍 Let’s defend and optimize the digital world — together.
@@ -9,14 +9,6 @@
 
 ## 🧰 Technical Skills
 
-### 🛡️ Cybersecurity
-- **Security Monitoring & Incident Response**
-- **Threat Intelligence & IOCs** | **Alert Triage & Escalation**
-- **SIEM Tools**: Splunk | Wazuh | Microsoft Sentinel
-- **Vulnerability Management**: Qualys | Nessus
-- **EDR/XDR**: LimaCharlie
-- **IDS/IPS**: Snort | Suricata
-
 ### 🖥️ Linux Server Administration
 - **OS**: AlmaLinux | Ubuntu | Debian | Rocky Linux
 - **Web Hosting**: Apache | NGINX | WHM/cPanel
@@ -24,6 +16,14 @@
 - **Scripting**: Bash | Shell Automation
 - **DNS/FTP/SSL**: Bind | vsftpd | AutoSSL
 - **Cloud/Deployment**: AWS EC2 | LAMP Stack | WordPress | Magento
+
+### 🛡️ Cybersecurity
+- **Security Monitoring & Incident Response**
+- **Threat Intelligence & IOCs** | **Alert Triage & Escalation**
+- **SIEM Tools**: Splunk | Wazuh | Microsoft Sentinel
+- **Vulnerability Management**: Qualys | Nessus
+- **EDR/XDR**: LimaCharlie
+- **IDS/IPS**: Snort | Suricata
 
 ### 🧠 Core Concepts
 - **TCP/IP**, **DNS**, **HTTP/S**, **TLS**, **VPNs**
